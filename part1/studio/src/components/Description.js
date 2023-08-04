@@ -22,15 +22,7 @@ function RecipeAuthor() {
     </div>
   );
 }
-  //     <div className={styles.recipeAuthorBlock}>
-  //       <img src={authorPhoto} alt="Avocado toast" className={styles.imageUpdates} />
-  //       <div>
-  //         <h3>{authorName}</h3>
-  //         <a href={authorLink}>Blog name</a>
-  //       </div>
-  //     </div>
-  //   );
-  // }
+ 
   class RecipeDescription extends React.Component {
     render() {
       return (
