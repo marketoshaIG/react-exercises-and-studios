@@ -10,8 +10,8 @@ function RecipeAuthor() {
     return ( 
     <div className={styles.recipeAuthorBlock}>
       <img src={authorPhoto}
-        height="100"
-        width="100"
+        height="500"
+        width="500"
         alt="Avocado toast"
         className={styles.imageUpdates}
       />
