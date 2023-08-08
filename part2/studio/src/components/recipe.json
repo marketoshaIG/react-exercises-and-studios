@@ -1,18 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
+    "name": "Avocado toast",
+    "author": "Iryna Ignatenko",
+    "description": "Quick and easy Avocado Toast with Egg 4 ways – fried, scrambled, boiled and poached. It’s a simple healthy protein-packed breakfast, snack or light meal! Simple to make, tasty and satisfying.If you haven’t had an egg and avocado toast breakfast yet, now is the time!",
+    "website": "https://www.instagram.com/mybreakfast_idea/",
+    "recipeImage": "https://thesaltypot.com/wp-content/uploads/2019/02/Avocado-Toast09.jpg",
+    "ingredients": [
+     "Avocado",
+     "Bread",
+     "Salt",
+     "Lemon",
+     "Eggs"
+    ]
    }
  ]
  

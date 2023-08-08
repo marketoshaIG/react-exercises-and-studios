@@ -6,12 +6,13 @@ import IngredientList from "./components/Ingredients";
 import RecipeImage from "./components/RecipeImage";
 import RecipeName from "./components/RecipeName";
 
+
 export default function App() {
   return (
     <>
       <RecipeImage />
       <RecipeName />
-      <RateARecipe rating={4} />
+      <RateARecipe rating={5} />
       <Button saveButton={true} />
       <AuthorInfo />
       <IngredientList />
