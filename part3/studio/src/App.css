@@ -38,10 +38,13 @@
 }
 
 .recipePhotoBlock {
-  display: flex;
-  justify-content: space-evenly;
+  display:inline-flexbox;
+  justify-content:space-evenly ;
+  
 }
 
 .imageUpdates {
-  object-fit: contain;
+  width: 50vw; /* Adjust the width to 25% of the viewport width */
+  height: auto;
+  object-fit: cover;
 }
